@@ -24,376 +24,453 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.mbri-alert:before {
+.mbri-add-submenu:before {
   content: "\e900";
 }
-.mbri-android:before {
+.mbri-alert:before {
   content: "\e901";
 }
-.mbri-apple:before {
+.mbri-align-center:before {
   content: "\e902";
 }
-.mbri-arrow-next:before {
+.mbri-align-justify:before {
   content: "\e903";
 }
-.mbri-arrow-prev:before {
+.mbri-align-left:before {
   content: "\e904";
 }
-.mbri-bookmark:before {
+.mbri-align-right:before {
   content: "\e905";
 }
-.mbri-bootstrap:before {
+.mbri-android:before {
   content: "\e906";
 }
-.mbri-briefcase:before {
+.mbri-apple:before {
   content: "\e907";
 }
-.mbri-browse:before {
+.mbri-arrow-down:before {
   content: "\e908";
 }
-.mbri-calendar:before {
+.mbri-arrow-next:before {
   content: "\e909";
 }
-.mbri-camera:before {
+.mbri-arrow-prev:before {
   content: "\e90a";
 }
-.mbri-cart-add:before {
+.mbri-arrow-up:before {
   content: "\e90b";
 }
-.mbri-cart-full:before {
+.mbri-bold:before {
   content: "\e90c";
 }
-.mbri-cash:before {
+.mbri-bookmark:before {
   content: "\e90d";
 }
-.mbri-change-style:before {
+.mbri-bootstrap:before {
   content: "\e90e";
 }
-.mbri-chat:before {
+.mbri-briefcase:before {
   content: "\e90f";
 }
-.mbri-clock:before {
+.mbri-browse:before {
   content: "\e910";
 }
-.mbri-close:before {
+.mbri-bulleted-list:before {
   content: "\e911";
 }
-.mbri-cloud:before {
+.mbri-calendar:before {
   content: "\e912";
 }
-.mbri-code:before {
+.mbri-camera:before {
   content: "\e913";
 }
-.mbri-contact-form:before {
+.mbri-cart-add:before {
   content: "\e914";
 }
-.mbri-credit-card:before {
+.mbri-cart-full:before {
   content: "\e915";
 }
-.mbri-cursor-click:before {
+.mbri-cash:before {
   content: "\e916";
 }
-.mbri-cust-feedback:before {
+.mbri-change-style:before {
   content: "\e917";
 }
-.mbri-database:before {
+.mbri-chat:before {
   content: "\e918";
 }
-.mbri-delivery:before {
+.mbri-clock:before {
   content: "\e919";
 }
-.mbri-desctop:before {
+.mbri-close:before {
   content: "\e91a";
 }
-.mbri-devices:before {
+.mbri-cloud:before {
   content: "\e91b";
 }
-.mbri-down:before {
+.mbri-code:before {
   content: "\e91c";
 }
-.mbri-download:before {
+.mbri-contact-form:before {
   content: "\e91d";
 }
-.mbri-drag-n-drop:before {
+.mbri-credit-card:before {
   content: "\e91e";
 }
-.mbri-edit:before {
+.mbri-cursor-click:before {
   content: "\e91f";
 }
-.mbri-edit2:before {
+.mbri-cust-feedback:before {
   content: "\e920";
 }
-.mbri-error:before {
+.mbri-database:before {
   content: "\e921";
 }
-.mbri-extension:before {
+.mbri-delivery:before {
   content: "\e922";
 }
-.mbri-features:before {
+.mbri-desktop:before {
   content: "\e923";
 }
-.mbri-file:before {
+.mbri-devices:before {
   content: "\e924";
 }
-.mbri-flag:before {
+.mbri-down:before {
   content: "\e925";
 }
-.mbri-folder:before {
-  content: "\e926";
+.mbri-download:before {
+  content: "\e989";
 }
-.mbri-gift:before {
+.mbri-drag-n-drop:before {
   content: "\e927";
 }
-.mbri-globe-2:before {
+.mbri-drag-n-drop2:before {
   content: "\e928";
 }
-.mbri-globe:before {
+.mbri-edit:before {
   content: "\e929";
 }
-.mbri-growing-chart:before {
+.mbri-edit2:before {
   content: "\e92a";
 }
-.mbri-hearth:before {
+.mbri-error:before {
   content: "\e92b";
 }
-.mbri-help:before {
+.mbri-extension:before {
   content: "\e92c";
 }
-.mbri-home:before {
+.mbri-features:before {
   content: "\e92d";
 }
-.mbri-hot-cup:before {
+.mbri-file:before {
   content: "\e92e";
 }
-.mbri-idea:before {
+.mbri-flag:before {
   content: "\e92f";
 }
-.mbri-image-gallery:before {
+.mbri-folder:before {
   content: "\e930";
 }
-.mbri-image-slider:before {
+.mbri-gift:before {
   content: "\e931";
 }
-.mbri-info:before {
+.mbri-github:before {
   content: "\e932";
 }
-.mbri-key:before {
+.mbri-globe:before {
   content: "\e933";
 }
-.mbri-laptop:before {
+.mbri-globe-2:before {
   content: "\e934";
 }
-.mbri-layers:before {
+.mbri-growing-chart:before {
   content: "\e935";
 }
-.mbri-left:before {
+.mbri-hearth:before {
   content: "\e936";
 }
-.mbri-letter:before {
+.mbri-help:before {
   content: "\e937";
 }
-.mbri-like:before {
+.mbri-home:before {
   content: "\e938";
 }
-.mbri-link:before {
+.mbri-hot-cup:before {
   content: "\e939";
 }
-.mbri-lock:before {
+.mbri-idea:before {
   content: "\e93a";
 }
-.mbri-login:before {
+.mbri-image-gallery:before {
   content: "\e93b";
 }
-.mbri-logout:before {
+.mbri-image-slider:before {
   content: "\e93c";
 }
-.mbri-magic-stick:before {
+.mbri-info:before {
   content: "\e93d";
 }
-.mbri-map-pin:before {
+.mbri-italic:before {
   content: "\e93e";
 }
-.mbri-menu:before {
+.mbri-key:before {
   content: "\e93f";
 }
-.mbri-mobile:before {
+.mbri-laptop:before {
   content: "\e940";
 }
-.mbri-mobile2:before {
+.mbri-layers:before {
   content: "\e941";
 }
-.mbri-mobirise:before {
+.mbri-left-right:before {
   content: "\e942";
 }
-.mbri-music:before {
+.mbri-left:before {
   content: "\e943";
 }
-.mbri-new-file:before {
+.mbri-letter:before {
   content: "\e944";
 }
-.mbri-opened-folder:before {
+.mbri-like:before {
   content: "\e945";
 }
-.mbri-pages:before {
+.mbri-link:before {
   content: "\e946";
 }
-.mbri-paper-plane:before {
+.mbri-lock:before {
   content: "\e947";
 }
-.mbri-paperclip:before {
+.mbri-login:before {
   content: "\e948";
 }
-.mbri-photo:before {
+.mbri-logout:before {
   content: "\e949";
 }
-.mbri-photos:before {
+.mbri-magic-stick:before {
   content: "\e94a";
 }
-.mbri-pin:before {
+.mbri-map-pin:before {
   content: "\e94b";
 }
-.mbri-play:before {
+.mbri-menu:before {
   content: "\e94c";
 }
-.mbri-plus:before {
+.mbri-mobile:before {
   content: "\e94d";
 }
-.mbri-preview:before {
+.mbri-mobile2:before {
   content: "\e94e";
 }
-.mbri-print:before {
+.mbri-mobirise:before {
   content: "\e94f";
 }
-.mbri-protect:before {
+.mbri-more-horizontal:before {
   content: "\e950";
 }
-.mbri-question:before {
+.mbri-more-vertical:before {
   content: "\e951";
 }
-.mbri-quote:before {
+.mbri-music:before {
   content: "\e952";
 }
-.mbri-refresh:before {
+.mbri-new-file:before {
   content: "\e953";
 }
-.mbri-responsive:before {
+.mbri-numbered-list:before {
   content: "\e954";
 }
-.mbri-right:before {
+.mbri-opened-folder:before {
   content: "\e955";
 }
-.mbri-rocket:before {
+.mbri-pages:before {
   content: "\e956";
 }
-.mbri-sad-face:before {
+.mbri-paper-plane:before {
   content: "\e957";
 }
-.mbri-sale:before {
+.mbri-paperclip:before {
   content: "\e958";
 }
-.mbri-save:before {
+.mbri-photo:before {
   content: "\e959";
 }
-.mbri-search:before {
+.mbri-photos:before {
   content: "\e95a";
 }
-.mbri-setting:before {
+.mbri-pin:before {
   content: "\e95b";
 }
-.mbri-setting2:before {
+.mbri-play:before {
   content: "\e95c";
 }
-.mbri-setting3:before {
+.mbri-plus:before {
   content: "\e95d";
 }
-.mbri-share:before {
+.mbri-preview:before {
   content: "\e95e";
 }
-.mbri-shoping-bag:before {
+.mbri-print:before {
   content: "\e95f";
 }
-.mbri-shoping-basket:before {
+.mbri-protect:before {
   content: "\e960";
 }
-.mbri-shoping-cart:before {
+.mbri-question:before {
   content: "\e961";
 }
-.mbri-sites:before {
+.mbri-quote-left:before {
   content: "\e962";
 }
-.mbri-smile-face:before {
+.mbri-quote-right:before {
   content: "\e963";
 }
-.mbri-speed:before {
+.mbri-refresh:before {
   content: "\e964";
 }
-.mbri-star:before {
+.mbri-responsive:before {
   content: "\e965";
 }
-.mbri-success:before {
+.mbri-right:before {
   content: "\e966";
 }
-.mbri-sun:before {
+.mbri-rocket:before {
   content: "\e967";
 }
-.mbri-tablet:before {
+.mbri-sad-face:before {
   content: "\e968";
 }
-.mbri-target:before {
+.mbri-sale:before {
   content: "\e969";
 }
-.mbri-timer:before {
+.mbri-save:before {
   content: "\e96a";
 }
-.mbri-to-ftp:before {
+.mbri-search:before {
   content: "\e96b";
 }
-.mbri-to-local-drive:before {
+.mbri-setting:before {
   content: "\e96c";
 }
-.mbri-touch-swipe:before {
+.mbri-setting2:before {
   content: "\e96d";
 }
-.mbri-touch:before {
+.mbri-setting3:before {
   content: "\e96e";
 }
-.mbri-trash:before {
+.mbri-share:before {
   content: "\e96f";
 }
-.mbri-unlock:before {
+.mbri-shopping-bag:before {
   content: "\e970";
 }
-.mbri-up:before {
+.mbri-shopping-basket:before {
   content: "\e971";
 }
-.mbri-upload:before {
+.mbri-shopping-cart:before {
   content: "\e972";
 }
-.mbri-user:before {
+.mbri-sites:before {
   content: "\e973";
 }
-.mbri-user2:before {
+.mbri-smile-face:before {
   content: "\e974";
 }
-.mbri-users:before {
+.mbri-speed:before {
   content: "\e975";
 }
-.mbri-video-play:before {
+.mbri-star:before {
   content: "\e976";
 }
-.mbri-video:before {
+.mbri-success:before {
   content: "\e977";
 }
-.mbri-watch:before {
+.mbri-sun:before {
   content: "\e978";
 }
-.mbri-website-theme:before {
+.mbri-sun2:before {
   content: "\e979";
 }
-.mbri-wifi:before {
+.mbri-tablet:before {
   content: "\e97a";
 }
-.mbri-windows:before {
+.mbri-tablet-vertical:before {
   content: "\e97b";
 }
-
+.mbri-target:before {
+  content: "\e97c";
+}
+.mbri-timer:before {
+  content: "\e97d";
+}
+.mbri-to-ftp:before {
+  content: "\e97e";
+}
+.mbri-to-local-drive:before {
+  content: "\e97f";
+}
+.mbri-touch-swipe:before {
+  content: "\e980";
+}
+.mbri-touch:before {
+  content: "\e981";
+}
+.mbri-trash:before {
+  content: "\e982";
+}
+.mbri-underline:before {
+  content: "\e983";
+}
+.mbri-unlink:before {
+  content: "\e984";
+}
+.mbri-unlock:before {
+  content: "\e985";
+}
+.mbri-up-down:before {
+  content: "\e986";
+}
+.mbri-up:before {
+  content: "\e987";
+}
+.mbri-update:before {
+  content: "\e988";
+}
+.mbri-upload:before {
+ content: "\e926"; 
+}
+.mbri-user:before {
+  content: "\e98a";
+}
+.mbri-user2:before {
+  content: "\e98b";
+}
+.mbri-users:before {
+  content: "\e98c";
+}
+.mbri-video:before {
+  content: "\e98d";
+}
+.mbri-video-play:before {
+  content: "\e98e";
+}
+.mbri-watch:before {
+  content: "\e98f";
+}
+.mbri-website-theme:before {
+  content: "\e990";
+}
+.mbri-wifi:before {
+  content: "\e991";
+}
+.mbri-windows:before {
+  content: "\e992";
+}
+.mbri-zoom-out:before {
+  content: "\e993";
+}
+.mbri-redo:before {
+  content: "\e994";
+}
+.mbri-undo:before {
+  content: "\e995";
+}
