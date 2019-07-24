@@ -22,6 +22,14 @@
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   <link rel="stylesheet" href="vendor/slider/css/nivo-slider.css" type="text/css" />
   <link rel="stylesheet" href="vendor/slider/css/preview.css" type="text/css" media="screen" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+   
+   $('#content').load("slideshow.html");
+
+});
+</script>
   
   
   
@@ -61,15 +69,8 @@
     </nav>
 </section>
 
-<section>
-	    <div class="slider1-area">
-            <div class="bend niceties preview-1">
-                <div id="ensign-nivoslider-3" class="slides nivoSlider">
-				<img src="assets/bridge-1920x1280" alt="slider" title="#slider-direction-8" style="display: none; width: 1352px;">
-				</div>
-			</div>
-    	    </div>
-</section>
+<div id="content"></div>
+	
 <section class="engine"><a href="http://satheesh1997.ml">SATHEESH KUMAR</a></section>
   <section class="cid-qs3kN5lKOp mbr-fullscreen mbr-parallax-background" id="header2-1" data-rv-view="267">
     <div class="mbr-overlay" style="opacity: 0.1; background-color: rgb(35, 35, 35);"></div>
